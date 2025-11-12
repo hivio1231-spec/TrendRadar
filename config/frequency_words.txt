@@ -1,26 +1,59 @@
 
-美国
-日本
-韩国
-越南
-泰国
-马来西亚
-菲律宾
-葡萄牙
-西班牙
-法国
-俄国
-意大利
-
 地震
+!金融
 火灾
 海啸
 灾难
+台风
+泥石流
 
 领导人
 换届
 上任
+权力交接
+新领导班子
+任期制
+政治体制
+政党轮替
+权力更迭
+交权
 
-未成年
-游戏
-政策
+青少年保护
+未成年人保护法
+未成年人网络保护
+网络安全法
+防沉迷
+游戏限时
+游戏防沉迷
+教育部规定
+未成年人实名认证
+举报未成年人
+账号封禁
+年龄封禁
+异常行为检测（未成年人）
+防沉迷系统
+Age restriction / Age limit
+Parental control / Parent supervision
+Child protection / Youth protection
+Teen mode / Kids mode
+Underage account / Minor account
+Playtime limit / Session limit
+Anti-addiction / Anti-gaming addiction
+COPPA
+
+游戏版号
+文化部审批
+网络安全法
+未成年人保护法
+防沉迷政策
+游戏出版审批
+内容合规
+游戏监管
+监管政策
+ESRB rating
+PEGI rating
+GDPR / GDPR-K
+CCPA
+Game publishing regulation / Licensing
+Content compliance / Regulatory compliance
+Online safety / Digital safety
