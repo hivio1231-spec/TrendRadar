@@ -1,6 +1,7 @@
 
 地震
 !金融
+!债券
 火灾
 海啸
 灾难
@@ -32,14 +33,6 @@
 年龄封禁
 异常行为检测（未成年人）
 防沉迷系统
-Age restriction / Age limit
-Parental control / Parent supervision
-Child protection / Youth protection
-Teen mode / Kids mode
-Underage account / Minor account
-Playtime limit / Session limit
-Anti-addiction / Anti-gaming addiction
-COPPA
 
 游戏版号
 文化部审批
@@ -49,11 +42,3 @@ COPPA
 游戏出版审批
 内容合规
 游戏监管
-监管政策
-ESRB rating
-PEGI rating
-GDPR / GDPR-K
-CCPA
-Game publishing regulation / Licensing
-Content compliance / Regulatory compliance
-Online safety / Digital safety
